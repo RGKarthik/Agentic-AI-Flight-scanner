@@ -1,0 +1,28 @@
+2025-08-29 19:37:03,005 - utils - INFO - Test log message
+2025-08-29 19:37:03,007 - demo_scraper - INFO - Generating demo flights from NYC to LAX
+2025-08-29 19:44:10,919 - utils - INFO - Test log message
+2025-08-29 19:44:10,921 - demo_scraper - INFO - Generating demo flights from NYC to LAX
+2025-08-29 19:44:24,708 - utils - INFO - Test log message
+2025-08-29 19:44:24,709 - demo_scraper - INFO - Generating demo flights from NYC to LAX
+2025-08-29 19:44:45,451 - utils - INFO - Starting flight search...
+2025-08-29 19:44:45,451 - utils - INFO - Source: NYC
+2025-08-29 19:44:45,452 - utils - INFO - Destination: LAX
+2025-08-29 19:44:45,452 - utils - INFO - Date: 2025-09-15
+2025-08-29 19:44:45,453 - utils - INFO - Searching on kayak...
+2025-08-29 19:44:45,454 - flight_scrapers - ERROR - Error scraping Kayak: Selenium is not installed. Please install it using: pip install selenium
+2025-08-29 19:44:45,454 - utils - INFO - Searching on expedia...
+2025-08-29 19:44:45,454 - flight_scrapers - ERROR - Error scraping Expedia: Selenium is not installed. Please install it using: pip install selenium
+2025-08-29 19:44:45,454 - utils - INFO - Searching on booking...
+2025-08-29 19:44:45,455 - utils - INFO - Found 1 flights on booking
+2025-08-29 19:44:45,459 - utils - INFO - Results saved to flight_results_20250829_194445.json
+2025-08-29 19:45:06,192 - utils - INFO - Starting flight search...
+2025-08-29 19:45:06,192 - utils - INFO - Source: NYC
+2025-08-29 19:45:06,192 - utils - INFO - Destination: LAX
+2025-08-29 19:45:06,193 - utils - INFO - Date: 2025-09-15
+2025-08-29 19:45:06,194 - utils - INFO - Searching on kayak...
+2025-08-29 19:45:06,194 - flight_scrapers - ERROR - Error scraping Kayak: Selenium is not installed. Please install it using: pip install selenium
+2025-08-29 19:45:06,195 - utils - INFO - Searching on expedia...
+2025-08-29 19:45:06,195 - flight_scrapers - ERROR - Error scraping Expedia: Selenium is not installed. Please install it using: pip install selenium
+2025-08-29 19:45:06,195 - utils - INFO - Searching on booking...
+2025-08-29 19:45:06,195 - utils - INFO - Found 1 flights on booking
+2025-08-29 19:45:06,198 - utils - INFO - Results saved to flight_results_20250829_194506.json

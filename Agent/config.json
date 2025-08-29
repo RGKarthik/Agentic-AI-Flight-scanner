@@ -1,0 +1,25 @@
+{
+  "flight_search": {
+    "source": "NYC",
+    "destination": "LAX",
+    "travel_date": "2025-09-15",
+    "return_date": null,
+    "passengers": 1,
+    "class": "economy"
+  },
+  "websites": {
+    "primary": "kayak",
+    "fallback": ["expedia", "booking"]
+  },
+  "search_settings": {
+    "max_results": 10,
+    "timeout": 30,
+    "retry_attempts": 3,
+    "sort_by": "price"
+  },
+  "browser_settings": {
+    "headless": true,
+    "window_size": [1920, 1080],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  }
+}
